@@ -1,0 +1,52 @@
+#main{
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+#title{
+    font-size: 4rem;
+    margin-bottom: 0;
+    text-align: center;
+} 
+p{
+    font-size: large;
+    text-align: center;
+}
+#img-div{
+    background-color: white;
+    margin: 0;
+    padding: 10px;
+}
+#image{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    border-radius: 15%;
+    display: block;
+}
+#img-caption{
+    text-align: center;
+    margin-top: 10px;
+}
+#headline{
+    text-align: center;
+    font-size: 1rem;
+}
+ul{
+
+max-width: 50%;
+
+margin: 0 auto 50px auto;
+
+text-align: left;
+
+line-height: 1.4;
+}
+li{
+    
+margin: 16px 0;
+}
+.lastWord{
+text-align: center;
+}
